@@ -2,13 +2,13 @@
 
 Que bom te ter por aqui!
 
-Sou Morgana Ramos, futura desenvolvedora fulstack. Descobri que apesar de ser difícil de aprender eu sou apaixonada por programação. É incrível o que um código pode fazer.
+Sou Morgana Ramos, futura desenvolvedora fullstack. Descobri que, apesar de ser difícil de aprender, eu sou apaixonada por programação. 
 
 - 🔭 Estou disponível para vagas de Trainne ou estágio na área de desenvolvimento
-- 🌱 Atualmente estudando sobre Java, Spring e arquitetura.
+- 🌱 Atualmente estou estudando sobre Java, Spring e arquitetura.
 - 👯 Quero aprender sempre, pode me chamar para colaborações.
 - 💬 Pode me perguntar qualquer coisa sobre normas ABNT para TCC que eu te ajudo
-- 📫 Caso queira você pode me contactar pelo linkedin ou email: morganaramos@edu.unifor.br
 - 😄 Amo series, animes, animais e dasafios.
-- ⚡ Fato engraçado: passei 12 anos desejando iniciar meus estudos em programação, mas achava que não era pra mim.
+- ⚡ Fato engraçado: passei 12 anos desejando iniciar meus estudos em programação, mas achava que não era pra mim. Esse ano pedi demissão e estou me dedicando ao aprendizado.
+- 📫 Caso queira você pode me contactar pelo linkedin ou email: morganaramos@edu.unifor.br
 
