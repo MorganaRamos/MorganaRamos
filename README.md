@@ -1,6 +1,8 @@
-### Oi tudo bom? 👋
+### Olá, tudo bem? 👋
 
-Sou Morgana Ramos, futura desenvolvedora fulstack. Descobri que apesar de ser dificil de aprender, eu sou apaixonada por progrmação. Acho incrível o que um código pode fazer.
+Que bom te ter por aqui!
+
+Sou Morgana Ramos, futura desenvolvedora fulstack. Descobri que apesar de ser difícil de aprender eu sou apaixonada por programação. É incrível o que um código pode fazer.
 
 - 🔭 Estou disponível para vagas de Trainne ou estágio na área de desenvolvimento
 - 🌱 Atualmente estudando sobre Java, Spring e arquitetura.
