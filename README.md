@@ -18,7 +18,7 @@ Sou Morgana Ramos, futura desenvolvedora fullstack. Descobri que, apesar de ser 
 
 It's good to see you here
 
-I'm Morgana Ramos, future fullstack developer. I discovered that dont matter how hard to learn programming is, I just love it.
+I'm Morgana Ramos, future fullstack developer. I realised that dont matter how hard to learn programming is, I just love it.
 
 - 🔭 I am available for Trainne or internship vacancies in the development area.
 - 🌱 I am currently studying about Java, Spring and architecture.
