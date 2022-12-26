@@ -6,7 +6,7 @@ Que bom te ter por aqui!
 
 Sou Morgana Ramos, futura desenvolvedora fullstack. Descobri que, apesar de ser difícil de aprender, eu sou apaixonada por programação. 
 
-- 🔭 Estou disponível para vagas de Trainne ou estágio na área de desenvolvimento.
+- 🔭 Estou disponível para vagas de Trainne na área de desenvolvimento.
 - 🌱 Atualmente estou estudando sobre Java, Spring e arquitetura.
 - 👯 Quero aprender sempre, pode me chamar para colaborações.
 - 💬 Pode me perguntar qualquer coisa sobre normas ABNT para TCC que eu te ajudo.
