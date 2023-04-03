@@ -7,11 +7,11 @@ Que bom te ter por aqui!
 Sou Morgana Ramos, futura desenvolvedora fullstack. Descobri que, apesar de ser difícil de aprender, eu sou apaixonada por programação. 
 
 - 🔭 Estou disponível para vagas de Trainne na área de desenvolvimento.
-- 🌱 Atualmente estou estudando sobre Java, Spring e arquitetura.
+- 🌱 Atualmente estou estudando tecnologias front end: Javascript, HMTL e CSS.
 - 👯 Quero aprender sempre, pode me chamar para colaborações.
 - 💬 Pode me perguntar qualquer coisa sobre normas ABNT para TCC que eu te ajudo.
 - 😄 Amo séries, animes, animais e desafios.
-- ⚡ Um fato: passei 12 anos desejando iniciar meus estudos em programação, mas achava que não era pra mim. Trabalhava como bibliotecária, esse ano pedi demissão e estou aqui. #AntesTardeDoQueNunca
+- ⚡ Um fato: passei 12 anos pensando em começar meus estudos em programação, mas achava que não era pra mim. Trabalhava como bibliotecária, pedi demissão e agora estou aqui. #AntesTardeDoQueNunca \o/
 - 📫 Caso queira, você pode me contactar pelo linkedin ou email: morganaramos@edu.unifor.br
 
 ### Hi there! 👋
@@ -21,7 +21,7 @@ It's good to see you here
 I'm Morgana Ramos, future fullstack developer. I realised that dont matter how hard to learn programming is, I just love it.
 
 - 🔭 I am available for Trainne or internship vacancies in the development area.
-- 🌱 I am currently studying about Java, Spring and architecture.
+- 🌱 I am currently studying front end technology: Javascript, HMTL e CSS.
 - 👯 I always want to learn, so call me for collaborations.
 - 💬 You can ask me anything about ABNT and Vancouver standards for TCC and I'll help you.
 - 😄 I love series, anime, animals and challenges.
