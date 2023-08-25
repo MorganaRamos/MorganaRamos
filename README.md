@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morganaramos&label=Profile%20views&color=0e75b6&style=flat" alt="morganaramos" /> </p>
 
-- 🔭 Atualmente atuo como analista funcional implementando integrações e entre sistemas de saúde utilizando **APIRest**
+- 🔭 Atualmente atuo como analista funcional implementando integrações e entre sistemas de saúde através de **APIRest**
 
 - 🌱 Atualmente estou estudando tecnologias front end **React, Javascript, HMTL e CSS.**
 
