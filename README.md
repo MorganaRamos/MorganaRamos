@@ -1,40 +1,32 @@
+<h1 align="center"> Olá, tudo bem? 👋 Sou Morgana Ramos</h1>
+<h3 align="center">Futura desenvolvedora fullstack. Descobri que, apesar de ser difícil de aprender, eu sou apaixonada por programação.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morganaramos&label=Profile%20views&color=0e75b6&style=flat" alt="morganaramos" /> </p>
 
-### Olá, tudo bem? 👋
+- 🔭 Atualmente atuo como analista funcional implementando integrações e entre sistemas de saúde utilizando **APIRest**
 
-Que bom te ter por aqui!
+- 🌱 Atualmente estou estudando tecnologias front end **React, Javascript, HMTL e CSS.**
 
-Sou Morgana Ramos, futura desenvolvedora fullstack. Descobri que, apesar de ser difícil de aprender, eu sou apaixonada por programação. 
+- 💬 Pode me perguntar qualquer coisa sobre **normas ABNT para TCC**
 
-- 🔭 Estou disponível para vagas de Trainne na área de desenvolvimento.
-- 🌱 Atualmente estou estudando tecnologias front end: React, Javascript, HMTL e CSS.
-- 👯 Quero aprender sempre, pode me chamar para colaborações.
-- 💬 Pode me perguntar qualquer coisa sobre normas ABNT para TCC que eu te ajudo.
-- 😄 Amo séries, animes, animais e desafios.
-- ⚡ Um fato: passei 12 anos pensando em começar meus estudos em programação, mas achava que não era pra mim. Trabalhava como bibliotecária, pedi demissão e agora estou aqui. #AntesTardeDoQueNunca \o/
-- 📫 Caso queira, você pode me contactar pelo linkedin ou email: morganaramos@edu.unifor.br
+- 📫 Caso queira, você pode me contactar pelo email **morganaramos@edu.unifor.br**
 
-### Hi there! 👋
+- ⚡ Um fato **passei 12 anos pensando em aprender programação, mas achava que não era pra mim. Um dia pedi demissão e decidi transformar o sonho em realidade.#AntesTardeDoQueNunca \o/**
 
-It's good to see you here
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mralbuquerque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mralbuquerque/" height="30" width="40" /></a>
+</p>
 
-I'm Morgana Ramos, future fullstack developer. I realised that dont matter how hard to learn programming is, I just love it.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-- 🔭 I am available for Trainne or internship vacancies in the development area.
-- 🌱 I am currently studying front end technology: React, Javascript, HMTL e CSS.
-- 👯 I always want to learn, so call me for collaborations.
-- 💬 You can ask me anything about ABNT and Vancouver standards for TCC and I'll help you.
-- 😄 I love series, anime, animals and challenges.
-- ⚡ Fun fact: I spent 12 years wanting to start my programming studies, just because I thought it wasn't for me. I worked as a librarian, this year I quit my job and now I'm here. #Better late than never
-- 📫 If you want, you can contact me via linkedin or email: morganaramos@edu.unifor.br
-
-
-<h3 align="left">Já tive contato com:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morganaramos&show_icons=true&locale=en&layout=compact" alt="morganaramos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morganaramos&show_icons=true&locale=en&layout=compact" alt="morganaramos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morganaramos&show_icons=true&locale=en" alt="morganaramos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morganaramos&" alt="morganaramos" /></p>
+
 
 
 
