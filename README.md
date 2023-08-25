@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, tudo bem? 👋 Sou Morgana Ramos</h1>
-<h3 align="center">Futura desenvolvedora fullstack. Descobri que, apesar de ser difícil de aprender, eu sou apaixonada por programação.</h3>
+<h3 align="center">Futura desenvolvedora fullstack. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morganaramos&label=Profile%20views&color=0e75b6&style=flat" alt="morganaramos" /> </p>
 
