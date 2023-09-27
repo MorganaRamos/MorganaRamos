@@ -1,9 +1,8 @@
 <h1 align="center"> Olá, tudo bem? 👋 Sou Morgana Ramos</h1>
-<h3 align="center">Futura desenvolvedora fullstack 👨‍💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morganaramos&label=Profile%20views&color=0e75b6&style=flat" alt="morganaramos" /> </p>
 
-- 🔭 Atualmente atuo como analista funcional implementando integrações entre sistemas de saúde através de **APIRest**
+- 🔭 Atualmente atuo como analista funcional implantando integrações entre sistemas de saúde através de **APIRest**
 
 - 🌱 Atualmente estou estudando tecnologias front end **React, Javascript, HMTL e CSS.**
 
